@@ -2,8 +2,6 @@
 
 🎓 **MPCS Student at the University of Chicago**
 
-![Profile views](https://komarev.com/ghpvc/?username=codingwithaish&style=flat-square&color=blue)
-
 ---
 
 ## 👩‍💻 About Me
