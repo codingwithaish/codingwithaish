@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nikhitha Aishwarya Thathapudi
 
-<!--
-**codingwithaish/codingwithaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MPCS Student at the University of Chicago**
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=codingwithaish&style=flat-square&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science graduate currently pursuing my **Master of Science in Computer Science (MPCS)** at the **University of Chicago**.
+
+---
+
+⭐ **Thanks for visiting my profile!**
